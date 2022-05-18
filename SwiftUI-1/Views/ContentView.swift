@@ -80,3 +80,5 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+public protocol ViewModifier {}
